@@ -1,0 +1,14 @@
+.headerButton{
+    display:flex;
+    justify-content: center;
+    padding:8px;
+    width:370px;
+    margin: 0 auto;
+}
+
+button{
+    width:150px;
+}
+
+
+

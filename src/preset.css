@@ -1,0 +1,14 @@
+html,body{
+  margin:0;
+  padding:0;
+  height:100%;
+  width:100%;   
+}
+:root {
+    --Pink:#f9234a;
+    --Coklat:#a23530;
+    --AbuTua:#424749;
+    --Abu:#6e7679;
+    --AbuMuda:#e2e4e4;
+    --Putih:#f1f1f2;
+  }

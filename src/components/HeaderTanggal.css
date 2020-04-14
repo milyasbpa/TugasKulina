@@ -1,0 +1,16 @@
+.headerTanggal{
+    display:flex;
+    background-color: white;
+    align-items: center;
+    padding:8px;
+    justify-content: space-around;
+}
+
+.circle{
+    width:45px;
+    height:45px;
+    background-color: crimson;
+    border-radius:50%;
+    text-align:center;
+    align-items: center;
+}
